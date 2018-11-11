@@ -1,4 +1,4 @@
-# MAT5182-
+# Assignment 1 - Introduction and R programming
 Modern Applied and Computational Statistics
 
-My solutions for the course MAT5182 in R
+My solutions for Assignment 1 of the course MAT5182 in R.
